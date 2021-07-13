@@ -1,0 +1,43 @@
+* {
+            padding: 0;
+            margin: 0;
+        }
+        
+        .header {
+            background-color: rgb(125, 175, 233);
+            height: 80px;
+            width: 100%;
+            text-align: center;
+            padding-top: 30px;
+            padding-bottom: 0px;
+            color: white;
+        }
+        
+        body {
+            background-color: rgb(255, 248, 220);
+        }
+        
+        button {
+            width: 100px;
+            height: 30px;
+        }
+        
+        .butt {
+            width: 200px;
+            height: 50px;
+            justify-items: center;
+        }
+        
+        form {
+            display: inline-block;
+            text-align: center;
+            justify-content: center;
+            padding-left: 480px;
+            padding-top: 30px;
+        }
+        
+        #header {
+            padding: 40px;
+            background-color: rgb(106, 106, 253);
+            border-radius: 20px;
+        }
